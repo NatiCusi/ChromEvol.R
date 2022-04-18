@@ -1,0 +1,9 @@
+Package: ChromEvol
+Type: Package
+Title: Chromosome number reconstruction with ChromEvol
+Version: 0.9-1
+Date: 2013-06-17
+Author: Natalie Cusimano
+Maintainer: Natalie Cusimano  <cusimano@bio.lmu.de>
+Description: Provids functions to prepare input files for the program ChromEvol of Mayrose et al. (2010) and to read, analyze and visualize easily the output of the program.
+License: GPL (>= 2)
